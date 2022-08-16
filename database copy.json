@@ -1,0 +1,60 @@
+{
+  "activities": [
+    {
+      "id": "12A4CD9E-F969-7106-0E70-A8214ED12111",
+      "title": "skydiving",
+      "description": "Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut",
+      "categoryId": 2,
+      "img": "https://www.rd.com/wp-content/uploads/2016/11/01-skydiving-bucket-list-95414429-2happy.jpg?fit=640,427"
+    },
+    {
+      "id": "815C5D64-820D-2DCD-10AA-59EE2D0BC780",
+      "title": "skydiving",
+      "description": "Nullam vitae diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam",
+      "categoryId": 1,
+      "img": "https://www.rd.com/wp-content/uploads/2016/11/01-skydiving-bucket-list-95414429-2happy.jpg?fit=640,427"
+    },
+    {
+      "id": "F1BB0713-A37A-9766-7896-26BDADC62132",
+      "title": "skydiving",
+      "description": "dis parturient montes, nascetur ridiculus mus. Proin vel arcu eu odio tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales at,",
+      "categoryId": 2,
+      "img": "https://www.rd.com/wp-content/uploads/2016/11/01-skydiving-bucket-list-95414429-2happy.jpg?fit=640,427"
+    },
+    {
+      "id": "FDEA9082-2D95-F3B3-A5B2-F851EC375AAC",
+      "title": "skydiving",
+      "description": "dui, semper et, lacinia vitae, sodales at, velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam a",
+      "categoryId": 2,
+      "img": "https://www.rd.com/wp-content/uploads/2016/11/01-skydiving-bucket-list-95414429-2happy.jpg?fit=640,427"
+    },
+    {
+      "id": "6B09AC86-EBD2-41B1-1733-2AEEFE491165",
+      "title": "skydiving",
+      "description": "nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales at, velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem",
+      "categoryId": 1,
+      "img": "https://www.rd.com/wp-content/uploads/2016/11/01-skydiving-bucket-list-95414429-2happy.jpg?fit=640,427"
+    },
+    {
+      "id": "A565A92E-71B7-BEC0-EB49-A8E5B52DB31B",
+      "title": "skydiving",
+      "description": "egestas, urna justo faucibus lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet libero. Integer in magna.",
+      "categoryId": 1,
+      "img": "https://www.rd.com/wp-content/uploads/2016/11/01-skydiving-bucket-list-95414429-2happy.jpg?fit=640,427"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "interested"
+    },
+    {
+      "id": 2,
+      "title": "not interested"
+    },
+    {
+      "id": 3,
+      "title": "meh.."
+    }
+  ]
+}
